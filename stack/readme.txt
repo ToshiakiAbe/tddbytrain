@@ -10,3 +10,4 @@ void pop()
 ・top()でスタックの一番上の値を取得する。
  int top()
 スタックが空の場合、java.util.EmptyStackException が発生する
+
